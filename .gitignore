@@ -1,1 +1,15 @@
+# Blender backup files
+*.blend1
+*.blend2
+*.blend3
 
+# Render output (keep the folder, ignore the contents)
+output/*
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Blender quit/crash logs
+quit.blend
+@recover
