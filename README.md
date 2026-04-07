@@ -1,5 +1,3 @@
-Here is the updated, simplified README.md for your Blender project, reflecting the "simple" setup where bark.jpg is expected to be in the same folder as the script.
-
 Procedural World Generation and Animation
 A Python-based automation utility for Blender 4.5 that generates a complete 3D environment via script. The project features a recursively generated fractal structure, a noise-based terrain system with water-level detection, and a procedural forest generation system.
 
